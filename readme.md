@@ -2,7 +2,7 @@
 
 ## Welcome to reproduce our code!!!
 
-"Our article is now publicly available on ArXiv. This repository provides the training code for the MM-WHS dataset. If you need to reproduce our results, you can use the training scripts provided in this repository."
+Our article is now publicly available on ArXiv. This repository provides the training code for the MM-WHS dataset. If you need to reproduce our results, you can use the training scripts provided in this repository.
 
 
 
