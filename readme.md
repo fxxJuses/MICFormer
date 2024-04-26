@@ -10,6 +10,14 @@ Our article is now publicly available on ArXiv（[[2404.16371\] Multimodal Infor
 
 The dataset used in this paper is the MM-WHS dataset, which can be found at [Multi-Modality Whole Heart Segmentation Challenge](https://zmiclab.github.io/zxh/0/mmwhs/). Additionally, the data preprocessing method used in this paper can be performed through the registration method described in the text.
 
+We also provided our dataset processing script in prepocess.py, which we can run by changing the file path to get the same data as the article.
+
+```shell
+python prepocess.py
+```
+
+
+
 ### Run
 
 In addition to providing the MicFormer code, this repository also includes training and testing code for state-of-the-art methods. These include VT-Unet, Swin-Unet, SwinUneter, nnFormer, and MedNeXt.
